@@ -8,20 +8,20 @@ This repository contains my work for the exam test. I have completed 4 out of 5 
 <h3> Test Details </h3>
 
 1. Data Manipulation/Visualization: I worked on manipulating and visualizing data using various Python libraries, such as Pandas, Matplotlib, and Plotly The code for this task can be found in the data_manipulation folder.
+![Data Visualization](https://github.com/mishra-raman/cm1_python_test/assets/109490354/a84ef16e-cbf3-44f2-9fa3-b93a4d30555d)
 
-![Screenshot](https://drive.google.com/file/d/1PpMbpEJW6XZ2ENue_JVKjFIiQCGLXSdW/view?usp=sharing)
 
 2. OpenAI: OpenAI's language models retain the last two user-bot message exchanges and system messages, resulting in more contextually aware responses. It enhances virtual assistants, chatbots, and customer support systems by providing coherent and personalized interactions. This project showcases the power of OpenAI's technology in creating intelligent and engaging conversational experiences.
+![OpenAI](https://github.com/mishra-raman/cm1_python_test/assets/109490354/8a5b0a25-92c0-485e-9978-b8ed9d309b00)
 
-![Screenshot](https://drive.google.com/file/d/1hRolZG7geLkb41p8dSuUlvqi3hN1jP2A/view?usp=sharing)
 
 3. Discord API: I integrated the Discord API into my project to interact with Discord servers and users. This allowed me to retrieve information, send messages, and perform various actions on Discord. The code for this task can be found in the discord_api_integration folder.
+![Discord API](https://github.com/mishra-raman/cm1_python_test/assets/109490354/ea030782-250b-4f4f-b643-3ee59b482e73)
 
-![Screenshot](https://drive.google.com/file/d/1cmioPeje-_0rgoDKQNVgfrsew_sVSlPo/view?usp=sharing)
 
 4. Discord Chatbot using LangChain: I built a chatbot for Discord using the LangChain library. This involved training a language model, implementing conversational logic, and integrating it with the Discord API. The code for this task can be found in the discord_chatbot folder.
+![LangChain](https://github.com/mishra-raman/cm1_python_test/assets/109490354/d4de5a6a-aa5a-40a0-bedc-af8ba8130617)
 
-![Screenshot](https://drive.google.com/file/d/1l1wQIV9DOYPvcAUDBdq1-RyoT6X7jy4S/view?usp=sharing)
 
 <h3> Code </h3>
 I have developed the code for this project using Google Colab, a cloud-based development environment. You can find the Jupyter notebooks containing the code in the code folder.
