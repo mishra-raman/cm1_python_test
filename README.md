@@ -9,19 +9,19 @@ This repository contains my work for the exam test. I have completed 4 out of 5 
 
 1. Data Manipulation/Visualization: I worked on manipulating and visualizing data using various Python libraries, such as Pandas, Matplotlib, and Plotly The code for this task can be found in the data_manipulation folder.
 
-![Screenshot]([https://drive.google.com/file/d/1PpMbpEJW6XZ2ENue_JVKjFIiQCGLXSdW/view?usp=drive_link](https://drive.google.com/file/d/1PpMbpEJW6XZ2ENue_JVKjFIiQCGLXSdW/view?usp=drive_link))
+![Screenshot](https://drive.google.com/file/d/1PpMbpEJW6XZ2ENue_JVKjFIiQCGLXSdW/view?usp=sharing)
 
-3. OpenAI: OpenAI's language models retain the last two user-bot message exchanges and system messages, resulting in more contextually aware responses. It enhances virtual assistants, chatbots, and customer support systems by providing coherent and personalized interactions. This project showcases the power of OpenAI's technology in creating intelligent and engaging conversational experiences.
+2. OpenAI: OpenAI's language models retain the last two user-bot message exchanges and system messages, resulting in more contextually aware responses. It enhances virtual assistants, chatbots, and customer support systems by providing coherent and personalized interactions. This project showcases the power of OpenAI's technology in creating intelligent and engaging conversational experiences.
 
-![Screenshot](https://drive.google.com/file/d/1hRolZG7geLkb41p8dSuUlvqi3hN1jP2A/view?usp=drive_link)
+![Screenshot](https://drive.google.com/file/d/1hRolZG7geLkb41p8dSuUlvqi3hN1jP2A/view?usp=sharing)
 
-4. Discord API: I integrated the Discord API into my project to interact with Discord servers and users. This allowed me to retrieve information, send messages, and perform various actions on Discord. The code for this task can be found in the discord_api_integration folder.
+3. Discord API: I integrated the Discord API into my project to interact with Discord servers and users. This allowed me to retrieve information, send messages, and perform various actions on Discord. The code for this task can be found in the discord_api_integration folder.
 
-![Screenshot](https://drive.google.com/file/d/1cmioPeje-_0rgoDKQNVgfrsew_sVSlPo/view?usp=drive_link)
+![Screenshot](https://drive.google.com/file/d/1cmioPeje-_0rgoDKQNVgfrsew_sVSlPo/view?usp=sharing)
 
-5. Discord Chatbot using LangChain: I built a chatbot for Discord using the LangChain library. This involved training a language model, implementing conversational logic, and integrating it with the Discord API. The code for this task can be found in the discord_chatbot folder.
+4. Discord Chatbot using LangChain: I built a chatbot for Discord using the LangChain library. This involved training a language model, implementing conversational logic, and integrating it with the Discord API. The code for this task can be found in the discord_chatbot folder.
 
-![Screenshot](https://drive.google.com/file/d/1l1wQIV9DOYPvcAUDBdq1-RyoT6X7jy4S/view?usp=drive_link)
+![Screenshot](https://drive.google.com/file/d/1l1wQIV9DOYPvcAUDBdq1-RyoT6X7jy4S/view?usp=sharing)
 
 <h3> Code </h3>
 I have developed the code for this project using Google Colab, a cloud-based development environment. You can find the Jupyter notebooks containing the code in the code folder.
