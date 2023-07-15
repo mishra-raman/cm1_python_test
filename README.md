@@ -1,9 +1,9 @@
 # cm1_python_test
 
-<h3> Exam Test Repository </h3>
+<h3> Assessment Test Repository </h3>
 <h3> Description </h3>
 
-This repository contains my work for the exam test. I have completed 4 out of 5 tests and had a great time working on them. The tasks I performed included data manipulation/visualization, LangChain, Discord API, and creating a Discord Chatbot using LangChain.
+This repository contains my work for the assessment test. I have completed 4 out of 5 tests and had a great time working on them. The tasks I performed included data manipulation/visualization, LangChain, Discord API, and creating a Discord Chatbot using LangChain.
 
 <h3> Test Details </h3>
 
