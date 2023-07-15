@@ -36,3 +36,29 @@ Hi there! You are going to make edits on a Django project. The Django project is
 
 
    <h3>Once you finish, please reach out with your repo link. You can also email me at louisa@communityone.io</h3>
+<h3> Exam Test Repository </h3>
+<h3> Description </h3>
+This repository contains my work for the exam test. I have completed 4 out of 5 tests and had a great time working on them. The tasks I performed included data manipulation/visualization, LangChain, Discord API, and creating a Discord Chatbot using LangChain.
+
+<h3> Test Details </h3>
+1. Data Manipulation/Visualization: I worked on manipulating and visualizing data using various Python libraries, such as Pandas, Matplotlib, and Seaborn. The code for this task can be found in the data_manipulation folder.
+
+2. LangChain: I utilized the LangChain library to perform language processing tasks. This involved tasks like text classification, sentiment analysis, and named entity recognition. The code for this task can be found in the langchain_tasks folder.
+
+3. Discord API: I integrated the Discord API into my project to interact with Discord servers and users. This allowed me to retrieve information, send messages, and perform various actions on Discord. The code for this task can be found in the discord_api_integration folder.
+
+4. Discord Chatbot using LangChain: I built a chatbot for Discord using the LangChain library. This involved training a language model, implementing conversational logic, and integrating it with the Discord API. The code for this task can be found in the discord_chatbot folder.
+
+<h3> Code </h3>
+I have developed the code for this project using Google Colab, a cloud-based development environment. You can find the Jupyter notebooks containing the code in the code folder.
+
+<h3> Pending Task </h3>
+Unfortunately, I was unable to complete the Django part of the exam. Due to time constraints and other commitments, I couldn't devote sufficient time to work on this particular task. However, I plan to continue working on it in the future to enhance my skills in web development using Django.
+
+<h3> Feedback </h3>
+Please feel free to review my code and provide any feedback or suggestions you may have. I appreciate your time and input.
+
+<h3> Contact </h3>
+If you have any questions or would like to reach out, you can contact me via email at mishraraman94us@gmail.com.
+
+Thank you for visiting my repository!
