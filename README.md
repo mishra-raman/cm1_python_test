@@ -9,7 +9,7 @@ This repository contains my work for the exam test. I have completed 4 out of 5 
 
 1. Data Manipulation/Visualization: I worked on manipulating and visualizing data using various Python libraries, such as Pandas, Matplotlib, and Plotly The code for this task can be found in the data_manipulation folder.
 
-![Screenshot](https://drive.google.com/file/d/1PpMbpEJW6XZ2ENue_JVKjFIiQCGLXSdW/view?usp=drive_link)
+![Screenshot]([https://drive.google.com/file/d/1PpMbpEJW6XZ2ENue_JVKjFIiQCGLXSdW/view?usp=drive_link](https://drive.google.com/file/d/1PpMbpEJW6XZ2ENue_JVKjFIiQCGLXSdW/view?usp=drive_link))
 
 3. OpenAI: OpenAI's language models retain the last two user-bot message exchanges and system messages, resulting in more contextually aware responses. It enhances virtual assistants, chatbots, and customer support systems by providing coherent and personalized interactions. This project showcases the power of OpenAI's technology in creating intelligent and engaging conversational experiences.
 
